@@ -7,6 +7,7 @@ namespace MyGitTestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Ladiess!");
+            Console.WriteLine("geia xarantan");
         }
     }
 }
